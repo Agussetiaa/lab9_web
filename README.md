@@ -1,8 +1,8 @@
 # lab9_web
 
 Instruksi Praktikum
-1. Persiapkan text editor misalnya VSCode. 2. Buat folder baru dengan nama lab9_php_modular pada docroot webserver
-(htdocs)
+1. Persiapkan text editor misalnya VSCode.
+2. Buat folder baru dengan nama lab9_php_modular pada docroot webserver (htdocs)
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya. Langkah-langkah Praktikum
 
 # Header
