@@ -18,7 +18,7 @@ Instruksi Praktikum
 
 # About
 
-<img width="960" alt="image" src="https://github.com/Agussetiaa/lab9_web/assets/115542822/9f69bd22-1c7e-459a-a076-f0c87ee2b31b">
+<img width="960" alt="image" src="https://github.com/Agussetiaa/lab9_web/assets/115542822/c6a914ba-874d-40cd-9447-5134549ad63f">
 
 # Home
 
